@@ -6,6 +6,10 @@ This Apps Script automatically generates checkboxes for each API item and compar
 
 ## Examples
 
+![Demo Video](https://lh3.googleusercontent.com/pw/AP1GczPlFc3FdBiZjy5vekh4BlE2l8BFVw42fAYhMzp28DpB5S3tHR8_XTNZsvk7mS87fzvvPCQUmMzBDZzvAFZ-UiGkzhQxWvM0QzYEZnmVZdcJ5OlY3Sg=w400)
+
+## [Demo Video](https://www.youtube.com/watch?v=udPimBdal4s)
+
 You may view the [Example Google Sheets file](https://docs.google.com/spreadsheets/d/1NapueIqzw6aMey19nJJFXQCmE9VHO0c-zfG7cQQIZCE/edit#gid=1127450106).
 Please note that the file is view-only and you should make a copy of it if you wish to interact with it.
 
